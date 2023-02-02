@@ -1,0 +1,32 @@
+.nav{
+     height:70px;
+     width: 100%;
+     position:fixed;
+     top:0;
+     z-index: 2;
+     
+     display: flex;
+    
+     padding-left: 10px;
+         
+    
+}
+.nav_black{
+     background-color: #111;
+}
+.logo img{
+     width: 90px;
+     position: fixed;
+     left:10px
+     
+
+}
+.avatar img{
+    width: 60px;
+    position: fixed;
+   
+    right: 20px;
+    
+}
+
+
